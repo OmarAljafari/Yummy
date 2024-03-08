@@ -1,0 +1,651 @@
+﻿@model Yummy.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/assets/img/favicon.png" rel="icon">
+    <link href="~/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Amatic+SC:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="~/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/assets/css/main.css" rel="stylesheet">
+
+</head>
+
+
+<body>
+    
+    <!-- ======= Header ======= -->
+    <header id="header" class="header fixed-top d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+
+            <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
+                <!-- Uncomment the line below if you also wish to use an image logo -->
+                <!-- <img src="assets/img/logo.png" alt=""> -->
+                @Html.Raw(Model.SystemSetting.SystemSettingLogo)
+            </a>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    @foreach(var item in Model.MainMenu)
+                    {
+                        @Html.Raw(item.MainMenuIconUrl)
+                    }
+                    
+                   
+                </ul>
+            </nav><!-- .navbar -->
+
+            <a class="btn-book-a-table" href="#book-a-table">Book a Table</a>
+            <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+            <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+
+        </div>
+    </header><!-- End Header -->
+    <!-- ======= Hero Section ======= -->
+   
+        
+       @foreach(var item in Model.FrontOfPage){
+         <section id="hero" class="hero d-flex align-items-center section-bg">
+            <div class="container">
+                <div class="row justify-content-between gy-5">
+                    <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+                        <h2 data-aos="fade-up">@Html.Raw(item.FrontOfPageTitle)</h2>
+                        <p data-aos="fade-up" data-aos-delay="100">@item.FrontOfPageDescription</p>
+                        <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
+                            @Html.Raw(item.FrontOfPageLink1)
+                            @Html.Raw(item.FrontOfPageLink2)
+                        </div>
+                    </div>
+                    <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+                        <img src="~/FrontOfPageImg/@item.FrontOfPageImage" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+                    </div>
+                </div>
+            </div>
+         </section>
+
+        <!-- End Hero Section -->
+       }
+                   
+    
+
+    <main id="main">
+
+        <!-- ======= About Section ======= -->
+        @foreach (var item in Model.AboutUs)
+        {
+            <section id="about" class="about">
+                <div class="container" data-aos="fade-up">
+
+                    @Html.Raw(item.AboutUsTitle)
+
+                    <div class="row gy-4">
+                        <div class="col-lg-7 position-relative about-img" style="background-image: url(/AboutUsImg/@item.AboutUsImage1) ;" data-aos="fade-up" data-aos-delay="150">
+                            <div class="call-us position-absolute">
+                                @Html.Raw(item.AboutUsPhoneNote)
+                            </div>
+                        </div>
+                        <div class="col-lg-5 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
+                            <div class="content ps-0 ps-lg-5">
+                                <p class="fst-italic">
+                                    @item.AboutUsParagraph1
+                                </p>
+                                <ul>
+                                    <li><i class="bi bi-check2-all"></i> @item.AboutUsPoint1</li>
+                                    <li><i class="bi bi-check2-all"></i> @item.AboutUsPoint2</li>
+                                    <li><i class="bi bi-check2-all"></i> @item.AboutUsPoint3</li>
+                                </ul>
+                                <p>
+                                    @item.AboutUsParagraph2
+
+                                </p>
+
+                                <div class="position-relative mt-4">
+                                    <img src="~/AboutUsImg/@item.AboutUsImage2" class="img-fluid" alt="">
+                                    <a href="@item.AboutUsLink" class="glightbox play-btn"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+        }
+        <!-- End About Section -->
+        <!-- ======= Why Us Section ======= -->
+        <section id="why-us" class="why-us section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row gy-4">
+                    @foreach(var item in Model.WhyChooseYum){
+                        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                            <div class="why-box">
+                                <h3>@item.WhyChooseYumTitle</h3>
+                                <p>
+                                  @item.WhyChooseYumDescription
+                                </p>
+                                <div class="text-center">
+                                  @Html.Raw(item.WhyChooseYumLink)    
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- End Why Box -->
+                    }
+
+                    <div class="col-lg-8 d-flex align-items-center">
+                        <div class="row gy-4">
+                            @foreach(var item in Model.AdvantagesOfYum)
+                            {
+                                <div class="col-xl-4" data-aos="fade-up" data-aos-delay="200">
+                                    <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                                        @Html.Raw(item.AdvantagesOfYumIcon)
+                                        <h4>@item.AdvantagesOfYumBreef</h4>
+                                        <p>@item.AdvantagesOfYumDescription</p>
+                                    </div>
+                                </div>
+
+                                <!-- End Icon Box -->
+                            }
+                           
+
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Why Us Section -->
+        <!-- ======= Stats Counter Section ======= -->
+        <section id="stats-counter" class="stats-counter" style="background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url( /SystemSettingImg/@Model.SystemSetting.SystemSettingImageStatistics) center center ">
+            <div class="container" data-aos="zoom-out">
+
+                <div class="row gy-4">
+                    @foreach (var item in Model.Statistics)
+                    {
+                        <div class="col-lg-3 col-md-6">
+                            <div class="stats-item text-center w-100 h-100">
+                                <span data-purecounter-start="0" data-purecounter-end="@item.StatisticsNumber" data-purecounter-duration="1" class="purecounter"></span>
+                                <p>@item.StatisticsName</p>
+                            </div>
+                        </div>
+
+                        <!-- End Stats Item -->
+                    }
+                  
+
+                   
+                    </div><!-- End Stats Item -->
+
+                </div>
+
+            </div>
+        </section><!-- End Stats Counter Section -->
+        <!-- ======= Menu Section ======= -->
+        @if(Model.CategoryMenu.Count >0){
+        <section id="menu" class="menu">
+            <div class="container" data-aos="fade-up">
+                
+                    
+                
+                @Html.Raw(Model.SystemSetting.CategoryMenuTitle)
+
+                <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
+
+                    <li class="nav-item">
+                        <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#menu-@Model.CategoryMenu[0].CategoryMenuName.ToLower()">
+
+                            <h4>@Model.CategoryMenu[0].CategoryMenuName</h4>
+                        </a>
+                    </li>
+                    @foreach(var item in Model.CategoryMenu){
+
+                        if(item != Model.CategoryMenu[0])
+                        {
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-@item.CategoryMenuName.ToLower()" aria-selected="false" role="tab" tabindex="-1">
+                                    <h4>@item.CategoryMenuName</h4>
+                                </a><!-- End tab nav item -->
+
+                            </li>
+                        }
+                       
+                     
+                    }
+
+                </ul>
+
+                <div class="tab-content mt-3" data-aos="fade-up" data-aos-delay="300">
+                    
+                      <div class="tab-pane fade active show" id="menu-@Model.CategoryMenu[0].CategoryMenuName.ToLower()">
+
+                        
+                         <div class="row gy-5">
+                            @foreach (var item in Model.ItemMenu)
+                            {
+                                if (item.CategoryMenuId == Model.CategoryMenu[0].CategoryMenuId)
+                                {
+                                    <div class="col-lg-4 menu-item">
+                                        <a href="~/ItemMenuImg/@item.ItemMenuImage" class="glightbox"><img src="~/ItemMenuImg/@item.ItemMenuImage" class="menu-img img-fluid" alt=""></a>
+                                        <h4>@item.ItemMenuName</h4>
+                                        <p class="ingredients">
+                                            @item.ItemMenuBreef
+                                        </p>
+                                        <p class="price">
+                                            @item.ItemMenuPrice
+                                        </p>
+                                    </div><!-- Menu Item -->
+                                }
+                            }
+                         </div>
+                        
+                       
+                      </div>
+
+                            <!-- End Starter Menu Content -->
+                        
+                   
+                    @foreach(var category in Model.CategoryMenu){
+                        
+                       if(category != Model.CategoryMenu[0]){
+                                <div class="tab-pane fade" id="menu-@category.CategoryMenuName.ToLower()">
+
+                                    
+
+                                    <div class="row gy-5">
+                                       @foreach(var item in Model.ItemMenu){
+                                         if(category.CategoryMenuId == item.CategoryMenuId){
+                                            <div class="col-lg-4 menu-item">
+                                            <a href="~/ItemMenuImg/@item.ItemMenuImage" class="glightbox"><img src="~/ItemMenuImg/@item.ItemMenuImage" class="menu-img img-fluid" alt=""></a>
+                                                <h4>@item.ItemMenuName</h4>
+                                                <p class="ingredients">
+                                                    @item.ItemMenuBreef
+                                                </p>
+                                                <p class="price">
+                                                    @item.ItemMenuPrice
+                                                </p>
+                                            </div>
+                                         }
+                                       }
+                                            <!-- Menu Item -->
+                                       
+
+
+                                    </div>
+                                </div>
+
+                            }
+
+                       }     <!-- End Breakfast Menu Content -->
+                        
+                    
+
+                   
+
+                </div>
+
+            </div>
+        </section><!-- End Menu Section -->
+        }
+        <!-- ======= Testimonials Section ======= -->
+        <section id="testimonials" class="testimonials section-bg">
+            <div class="container" data-aos="fade-up">
+
+                @Html.Raw(Model.SystemSetting.WhatPeopleSayTitle)
+
+                <div class="slides-1 swiper" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+                        @foreach(var item in Model.WhatPeopleSay)
+                        {
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <div class="row gy-4 justify-content-center">
+                                        <div class="col-lg-6">
+                                            <div class="testimonial-content">
+                                                <p>
+                                                    @Html.Raw(item.WhatPeopleSayIconStartOfDesc)
+                                                    @item.WhatPeopleSayDescription
+                                                    @Html.Raw(item.WhatPeopleSayIconEndOfDesc)
+                                                </p>
+                                                <h3>@item.WhatPeopleSayName</h3>
+                                                <h4>@item.WhatPeopleSayJob</h4>
+                                                <div class="stars">
+                                                    @for(int i =0;i<5;i++){
+                                                        @Html.Raw(item.WhatPeopleSayIconRate)
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2 text-center">
+                                            <img src="~/WhatPeopleSayImg/@item.WhatPeopleSayImage" class="img-fluid testimonial-img" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- End testimonial item -->
+                        }
+
+                       
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Testimonials Section -->
+        <!-- ======= Events Section ======= -->
+        <section id="events" class="events">
+            <div class="container-fluid" data-aos="fade-up">
+
+                @Html.Raw(Model.SystemSetting.MomentTitle)
+
+                <div class="slides-3 swiper" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+                      @foreach(var item in Model.Moment){
+                            <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(/MomentImg/@item.MomentImage)">
+                            <h3>@item.MomentName</h3>
+                            <div class="price align-self-start">$@item.MomentPrice</div>
+                            @Html.Raw(item.MomentDescription)
+                        </div><!-- End Event item -->
+                      }
+                       
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Events Section -->
+        <!-- ======= Chefs Section ======= -->
+        
+        <section id="chefs" class="chefs section-bg">
+            <div class="container" data-aos="fade-up">
+
+                @Html.Raw(Model.SystemSetting.ChefTitle)
+
+                <div class="row gy-4">
+                    @foreach(var item in Model.Chef){
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                        <div class="chef-member">
+                            <div class="member-img">
+                                <img src="~/ChefImg/@item.ChefImage" class="img-fluid" alt="">
+                                <div class="social">
+                                        @foreach(var item2 in Model.SocialMedia){
+                                            if (item2.SocialMediaRedirect == "Chef")
+                                            {
+                                                <a href="@item2.SocialMediaLink">@Html.Raw(item2.SocialMediaIcon)</a>
+                                            }
+                                        }
+
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>@item.ChefName</h4>
+                                <span>@item.ChefJob</span>
+                                <p>@item.ChefDescription</p>
+                            </div>
+                        </div>
+                    </div><!-- End Chefs Member -->
+                   }
+                  
+
+                </div>
+
+            </div>
+        </section><!-- End Chefs Section -->
+        <!-- ======= Book A Table Section ======= -->
+        <section id="book-a-table" class="book-a-table">
+            <div class="container" data-aos="fade-up">
+
+                @Html.Raw(Model.SystemSetting.SystemSettingTitleBook)
+
+                <div class="row g-0">
+
+                    <div class="col-lg-4 reservation-img" style="background-image: url(/SystemSettingImg/@Model.SystemSetting.SystemSettingImageBook);" data-aos="zoom-out" data-aos-delay="200"></div>
+
+                    <div class="col-lg-8 d-flex align-items-center reservation-form-bg">
+                        <form asp-action="TransactionBook" role="form" style="padding: 40px;" data-aos="fade-up" data-aos-delay="100">
+                            <div class="row gy-4">
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookName" class="form-control" id="name" required placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookName"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookEmail" class="form-control" id="email" type="email" required placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookEmail"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookPhone" class="form-control" type="number" id="phone" required placeholder="Your Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookPhone"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookDate" class="form-control" id="date" required placeholder="Date" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookDate"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookTime" class="form-control" id="time" required placeholder="Time" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookTime"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input asp-for="@Model.TransactionBook.TransactionBookNumberOfPeople" class="form-control" id="people" required placeholder="# of people" data-rule="minlen:1" data-msg="Please enter at least 1 chars">
+                                    <span asp-validation-for="@Model.TransactionBook.TransactionBookTime"></span>
+                                </div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <textarea class="form-control" asp-for="@Model.TransactionBook.TransactionBookMessage" rows="5" placeholder="Message" required></textarea>
+                                <span asp-validation-for="@Model.TransactionBook.TransactionBookMessage"></span>
+                            </div>
+                            <div class="mb-3">
+                                @* <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Your booking request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div> *@
+                                <div style="color:#ce1212">@TempData["message"]</div>
+                            </div>
+                            <div class="text-center"><button style="background: var(--color-primary);border: 0;padding: 12px 40px;color: #fff;transition: 0.4s;border-radius: 50px" type="submit">Book a Table</button></div>
+                        </form>
+                    </div><!-- End Reservation Form -->
+
+                </div>
+
+            </div>
+        </section><!-- End Book A Table Section -->
+        <!-- ======= Gallery Section ======= -->
+        @if(Model.Gallery.Count >0){
+        <section id="gallery" class="gallery section-bg">
+            <div class="container" data-aos="fade-up">
+
+              @Html.Raw(Model.SystemSetting.GalleryTitle)
+
+                <div class="gallery-slider swiper">
+                    <div class="swiper-wrapper align-items-center">
+                        @foreach(var item in Model.Gallery)
+                        {
+                            <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="~/GalleryImg/@item.GalleryImage"><img src="~/GalleryImg/@item.GalleryImage" class="img-fluid" alt=""></a></div>
+
+                        }
+                       
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Gallery Section -->
+        }
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container" data-aos="fade-up">
+
+                @Html.Raw(Model.SystemSetting.SystemSettingTitleMap)
+
+               @*  <div class="mb-3">
+                    <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+                </div> *@<!-- End Google Maps -->
+                @Html.Raw(Model.SystemSetting.SystemSettingMap)
+
+                <div class="row gy-4">
+                    @foreach(var item in Model.Information){
+                        if(item.InformationRedirect =="Page"){
+                    <div class="col-md-6">
+                        <div class="info-item  d-flex align-items-center">
+                           @Html.Raw(item.InformationIcon)
+                            <div>
+                                <h3>@item.InformationName</h3>
+                                <p>@Html.Raw(item.InformationDescription)</p>
+                            </div>
+                        </div>
+                    </div><!-- End Info Item -->
+                    }
+                    }
+
+                </div>
+
+                <div class="container">
+                    <form asp-action="TransactionContactUs" style="width: 100%; margin-top: 30px; background: #fff; box-shadow: 0 0 30px rgba(0, 0, 0, 0.08);" class="form-row p-3 p-md-4">
+
+
+                        <div class="row">
+                            <div class="col-xl-6 form-group pb-4">
+                                <input asp-for="@Model.TransactionContactUs.TransactionContactUsName" style="height: 48px;border-radius: 0;box-shadow: none;font-size: 14px;" class="form-control" id="name" placeholder="Your Name" required>
+                                <span asp-validation-for="@Model.TransactionContactUs.TransactionContactUsName"></span>
+                            </div>
+                            <div class="col-xl-6 form-group pb-4">
+                                <input asp-for="@Model.TransactionContactUs.TransactionContactUsEmail" style="height: 48px;border-radius: 0;box-shadow: none;font-size: 14px;" class="form-control" id="email" placeholder="Your Email" required>
+                                <span asp-validation-for="@Model.TransactionContactUs.TransactionContactUsEmail"></span>
+
+                            </div>
+                        </div>
+                        <div class="form-group pb-4">
+                            <input asp-for="@Model.TransactionContactUs.TransactionContactUsSubject" style="height: 48px;border-radius: 0;box-shadow: none;font-size: 14px;" class="form-control" id="subject" placeholder="Subject" required>
+                            <span asp-validation-for="@Model.TransactionContactUs.TransactionContactUsSubject"></span>
+
+                        </div>
+                        <div class="form-group pb-4">
+                            <textarea class="form-control" asp-for="@Model.TransactionContactUs.TransactionContactUsMessage"  rows="5" placeholder="Message" required></textarea>
+                            <span asp-validation-for="@Model.TransactionContactUs.TransactionContactUsMessage"></span>
+
+                        </div>
+
+
+                        <div style="color:#ce1212">@TempData["message"]</div>
+                        <div class="text-center">
+                            <button type="submit" style="background: var(--color-primary);border: 0;padding: 12px 40px;color: #fff;transition: 0.4s;border-radius: 50px">
+                                Send Message
+                            </button>
+                        </div>
+
+
+                    </form>
+                </div>
+              
+                </div>
+           
+           
+        </section><!-- End Contact Section -->
+
+    </main><!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="footer">
+
+        <div class="container">
+            <div class="row gy-3">
+                @foreach(var item in Model.Information)
+                {
+                    if(item.InformationRedirect == "Footer")
+                    {
+                        <div class="col-lg-3 col-md-6 d-flex">
+                            @Html.Raw(item.InformationIcon)
+                            <div>
+                                <h4>@item.InformationName</h4>
+                                <p>
+                                    @Html.Raw(item.InformationDescription)
+                                </p>
+                            </div>
+
+                        </div>
+                    }
+                    
+
+                }
+
+                
+
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Follow Us</h4>
+                    <div class="social-links d-flex">
+                        @foreach(var item in Model.SocialMedia)
+                        {
+                            if(item.SocialMediaRedirect == "Footer")
+                            {
+                                <a href="@item.SocialMediaLink">@Html.Raw(item.SocialMediaIcon)</a>
+
+                            }
+
+                        }
+                      
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container">
+            @Html.Raw(Model.SystemSetting.SystemSettingCopyRight)
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+
+    </footer><!-- End Footer -->
+    <!-- End Footer -->
+
+
+
+
+
+    <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <div id="preloader"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/vendor/aos/aos.js"></script>
+    <script src="~/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="~/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="~/assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="~/assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/assets/js/main.js"></script>
+</body>
+
+</html>

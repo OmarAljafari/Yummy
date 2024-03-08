@@ -1,0 +1,54 @@
+﻿@model Yummy.Models.SocialMedia
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+                <div class="logo_login">
+                    <div class="center">
+                        <img width="210" src="~/images/logo/logo.png" alt="#" />
+                    </div>
+                </div>
+
+                <div class="login_form">
+
+                    <form asp-action="Create" class="row g-3">
+                        <fieldset>
+                            <div asp-validation-summary="ModelOnly" class="text-danger "></div>
+
+                            <div class="field">
+                                <label asp-for="SocialMediaLink" class="control-label"></label>
+                                <input asp-for="SocialMediaLink" class="form-control" />
+                                <span asp-validation-for="SocialMediaLink" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="SocialMediaIcon" class="control-label"></label>
+                                <input asp-for="SocialMediaIcon" class="form-control" />
+                                <span asp-validation-for="SocialMediaIcon" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="SocialMediaRedirect" class="control-label"></label>
+                                <input asp-for="SocialMediaRedirect" class="form-control" />
+                                <span asp-validation-for="SocialMediaRedirect" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="text-center mb-2 mt-2">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                            </div>
+                            <div class="text-center">
+                                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+﻿@model Yummy.Areas.Admin.ViewModels.ItemMenuViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+                <div class="logo_login">
+                    <div class="center">
+                        <img width="210" src="~/images/logo/logo.png" alt="#" />
+                    </div>
+                </div>
+
+                <div class="login_form">
+
+                    <form asp-action="Edit" enctype="multipart/form-data" class="row g-3">
+                        <fieldset>
+                            <div class="field">
+                                <label asp-for="ItemMenuBreef" class="control-label"></label>
+                                <input asp-for="ItemMenuBreef" class="form-control" />
+                                <span asp-validation-for="ItemMenuBreef" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="ItemMenuName" class="control-label"></label>
+                                <input asp-for="ItemMenuName" class="form-control" />
+                                <span asp-validation-for="ItemMenuName" class="text-danger"></span>
+                            </div>
+                            
+                            <div class="field">
+                                <label asp-for="File" class="control-label"></label>
+                                <input asp-for="File" class="form-control" />
+                                <span asp-validation-for="File" class="text-danger"></span>
+                            </div>
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="field">
+                                <label asp-for="ItemMenuPrice" class="control-label"></label>
+                                <input asp-for="ItemMenuPrice" class="form-control" />
+                                <span asp-validation-for="ItemMenuPrice" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="CategoryMenuId" class="control-label"></label>
+                                <select asp-for="CategoryMenuId" class="form-control form-select"  asp-items="@(new SelectList(ViewBag.CategoryMenuList,"CategoryMenuId","CategoryMenuName"))"></select>
+                                
+                                <span asp-validation-for="CategoryMenuId" class="text-danger"></span>
+                            </div>
+
+                            <div class="text-center mb-2 ">
+                                <input type="submit" value="Edit" class="btn btn-primary" />
+                            </div>
+                            <div class="text-center">
+                                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,93 @@
+﻿@model Yummy.Areas.Admin.ViewModels.AboutUsViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="full_container " style="margin-top:130px;margin-bottom:130px" >
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+@* <div class="logo_login">
+    <div class="center">
+        <img width="210" src="~/images/logo/logo.png" alt="#" />
+    </div>
+</div> *@
+
+<div class="login_form">
+
+    <form asp-action="Create" enctype="multipart/form-data" class="row g-3">
+        <fieldset>
+        
+            <div class="field">
+                <label asp-for="File1" class="control-label"></label>
+                <input asp-for="File1" class="form-control" />
+                <span asp-validation-for="File1" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="field">
+                <label asp-for="File2" class="control-label"></label>
+                <input asp-for="File2" class="form-control" />
+                <span asp-validation-for="File2" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="field">
+                <label asp-for="AboutUsParagraph1" class="control-label"></label>
+                <input asp-for="AboutUsParagraph1" class="form-control" />
+                <span asp-validation-for="AboutUsParagraph1" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsParagraph2" class="control-label"></label>
+                <input asp-for="AboutUsParagraph2" class="form-control" />
+                <span asp-validation-for="AboutUsParagraph2" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsPoint1" class="control-label"></label>
+                <input asp-for="AboutUsPoint1" class="form-control" />
+                <span asp-validation-for="AboutUsPoint1" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsPoint2" class="control-label"></label>
+                <input asp-for="AboutUsPoint2" class="form-control" />
+                <span asp-validation-for="AboutUsPoint2" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsPoint3" class="control-label"></label>
+                <input asp-for="AboutUsPoint3" class="form-control" />
+                <span asp-validation-for="AboutUsPoint3" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsLink" class="control-label"></label>
+                <input asp-for="AboutUsLink" class="form-control" />
+                <span asp-validation-for="AboutUsLink" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsTitle" class="control-label"></label>
+                <input asp-for="AboutUsTitle" class="form-control" />
+                <span asp-validation-for="AboutUsTitle" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AboutUsPhoneNote" class="control-label"></label>
+                <input asp-for="AboutUsPhoneNote" class="form-control" />
+                <span asp-validation-for="AboutUsPhoneNote" class="text-danger"></span>
+            </div>
+          
+            <div class="text-center mb-2 ">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+            <div class="text-center">
+                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+            </div>
+
+            </fieldset>
+        </form>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+

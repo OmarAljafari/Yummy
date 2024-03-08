@@ -1,0 +1,53 @@
+﻿@model Yummy.Models.AdvantagesOfYum
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+<div class="logo_login">
+    <div class="center">
+        <img width="210" src="~/images/logo/logo.png" alt="#" />
+    </div>
+</div>
+
+<div class="login_form">
+
+    <form asp-action="Create"  class="row g-3">
+        <fieldset>
+            <div asp-validation-summary="ModelOnly" class="text-danger text-center"></div>
+            <div class="field">
+                <label asp-for="AdvantagesOfYumIcon" class="control-label"></label>
+                <input asp-for="AdvantagesOfYumIcon" class="form-control" />
+                <span asp-validation-for="AdvantagesOfYumIcon" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AdvantagesOfYumBreef" class="control-label"></label>
+                <input asp-for="AdvantagesOfYumBreef" class="form-control" />
+                <span asp-validation-for="AdvantagesOfYumBreef" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="AdvantagesOfYumDescription" class="control-label"></label>
+                <input asp-for="AdvantagesOfYumDescription" class="form-control" />
+                <span asp-validation-for="AdvantagesOfYumDescription" class="text-danger"></span>
+            </div>
+          
+            <div class="text-center mb-2 ">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+            <div class="text-center">
+                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+            </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+</div>
+</div>
+</div>
+

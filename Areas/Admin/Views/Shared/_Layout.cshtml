@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- site icon -->
+    <link rel="icon" href="~/images/fevicon.png" type="image/png" />
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <!-- site css -->
+    <link rel="stylesheet" href="~/style.css" />
+    <!-- responsive css -->
+    <link rel="stylesheet" href="~/css/responsive.css" />
+    <!-- color css -->
+    <link rel="stylesheet" href="~/css/colors.css" />
+    <!-- select bootstrap -->
+    <link rel="stylesheet" href="~/css/bootstrap-select.css" />
+    <!-- scrollbar css -->
+    <link rel="stylesheet" href="~/css/perfect-scrollbar.css" />
+    <!-- custom css -->
+    <link rel="stylesheet" href="~/css/custom.css" />
+</head>
+<body class="dashboard dashboard_1">
+    <div class="full_container">
+        <div class="inner_container">
+            <!-- Sidebar  -->
+            <nav id="sidebar">
+                <div class="sidebar_blog_1">
+                    <div class="sidebar-header">
+                        <div class="logo_section">
+                            <a href="index.html"><img class="logo_icon img-responsive" src="~/images/logo/logo_icon.png" alt="#" /></a>
+                        </div>
+                    </div>
+                    <div class="sidebar_user_info">
+                        <div class="icon_setting"></div>
+                        <div class="user_profle_side">
+                            <div class="user_img"><img class="img-responsive" src="~/images/layout_img/WhatsApp Image 2023-12-17 at 10.04.53 PM.jpeg" alt="#" /></div>
+                            <div class="user_info">
+                                <p>Developed by: </p>
+                                <h6>Omar Aljafari</h6>
+                                <p><span class="online_animation"></span> Online</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sidebar_blog_2">
+                    <h4>General</h4>
+                    <ul class="list-unstyled components">
+                        <li><a asp-action="Index" asp-controller="Home"><i class="fa fa-home"></i> <span>Home</span></a></li>
+                        <li><a asp-action="Index" asp-controller="AboutUs"><i class="fa fa-arrow-right"></i> <span>About Us</span></a></li>
+                        <li><a asp-action="Index" asp-controller="User"><i class="fa fa-arrow-right"></i> <span>User</span></a></li>
+                        <li><a asp-action="Index" asp-controller="AdvantagesOfYum"><i class="fa fa-arrow-right"></i> <span>Advantages of Yum</span></a></li>
+                        <li><a asp-action="Index" asp-controller="Chef"><i class="fa fa-arrow-right"></i> <span>Chef</span></a></li>
+                        <li><a asp-action="Index" asp-controller="CategoryMenu"><i class="fa fa-arrow-right"></i> <span>Category Menu</span></a></li>
+                        <li><a asp-action="Index" asp-controller="FrontOfPage"><i class="fa fa-arrow-right"></i> <span>Front of page</span></a></li>
+                        <li><a asp-action="Index" asp-controller="Gallery"><i class="fa fa-arrow-right"></i> <span>Gallery</span></a></li>
+                        <li><a asp-action="Index" asp-controller="Information"><i class="fa fa-arrow-right"></i> <span>Information</span></a></li>
+                        <li><a asp-action="Index" asp-controller="ItemMenu"><i class="fa fa-arrow-right"></i> <span>Item Menu</span></a></li>
+                        <li><a asp-action="Index" asp-controller="MainMenu"><i class="fa fa-arrow-right"></i> <span>Main Menu</span></a></li>
+                        <li><a asp-action="Index" asp-controller="SocialMedia"><i class="fa fa-arrow-right"></i> <span>Social Media</span></a></li>
+                        <li><a asp-action="Index" asp-controller="Moment"><i class="fa fa-arrow-right"></i> <span>Moment</span></a></li>
+                        <li><a asp-action="Index" asp-controller="Statistics"><i class="fa fa-arrow-right"></i> <span>Statistics</span></a></li>
+                        <li><a asp-action="Index" asp-controller="SystemSetting"><i class="fa fa-arrow-right"></i> <span>System Setting</span></a></li>
+                        <li><a asp-action="Index" asp-controller="TransactionContactUs"><i class="fa fa-arrow-right"></i> <span>Transaction Contact Us</span></a></li>
+                        <li><a asp-action="Index" asp-controller="TransactionBook"><i class="fa fa-arrow-right"></i> <span>Transaction Book</span></a></li>
+                        <li><a asp-action="Index" asp-controller="WhatPeopleSay"><i class="fa fa-arrow-right"></i> <span>What People Say</span></a></li>
+                        <li><a asp-action="Index" asp-controller="WhyChooseYum"><i class="fa fa-arrow-right"></i> <span>Why Choose Yum</span></a></li>
+
+
+
+                    </ul>
+                </div>
+            </nav>
+            <!-- end sidebar -->
+            <div id="content">
+                <!-- topbar -->
+                <div class="topbar">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <div class="full">
+                            <button type="button" id="sidebarCollapse" class="sidebar_toggle"><i class="fa fa-bars"></i></button>
+                            <div class="logo_section">
+                                <a href="index.html"><img class="img-responsive" src="~/images/logo/logo.png" alt="#" /></a>
+@*                                 <a asp-controller="Account" asp-action="Logout" class="btn btn-danger text-white text-uppercase ">Logout : @User.Identity.Name </a>
+ *@                            @*     <a asp-action="Logout" asp-controller="Account"> <span class="btn btn-danger">Logout: @User.Identity.Name</span> </a> *@
+
+                            </div>
+                            <div class="right_topbar">
+                                <div class="icon_info">
+                                    <ul class="user_profile_dd">
+                                        <li>
+                                            <a class="dropdown-toggle" data-toggle="dropdown"><img class="~/img-responsive rounded-circle" src="~/images/layout_img/user_img.jpg" alt="#"  /><span class="name_user">@User.Identity.Name</span></a>
+                                            <div class="dropdown-menu">
+                                               @*  @if(User.Identity.Name == "Omar")
+                                                {
+                                                    <a class="dropdown-item" href="linkedin.com/in/omar-aljafari-9078062b4">My Profile</a>
+
+                                                } *@
+                                                @* <a class="dropdown-item" href="settings.html">Settings</a>
+                                                <a class="dropdown-item" href="help.html">Help</a> *@
+                                                <a class="dropdown-item" asp-controller="Account" asp-action="Logout"><span>Log Out : @User.Identity.Name</span> <i class="fa fa-sign-out"></i></a>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <!-- end topbar -->
+
+                <div class="midde_cont">
+                    <div class="container-fluid">
+                        <div>
+                            @RenderBody()
+
+                        </div>
+                    </div>
+                    <div class="container-fluid mt-5">
+                        <div class="footer">
+                            <p>
+                                Copyright © 2018 Designed by html.design. All rights reserved.<br><br>
+                                Distributed By: <a href="https://themewagon.com/">ThemeWagon</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+
+    </div>
+  
+
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <!-- wow animation -->
+    <script src="~/js/animate.js"></script>
+    <!-- select country -->
+    <script src="~/js/bootstrap-select.js"></script>
+    <!-- owl carousel -->
+    <script src="~/js/owl.carousel.js"></script>
+    <!-- chart js -->
+    <script src="~/js/Chart.min.js"></script>
+    <script src="~/js/Chart.bundle.min.js"></script>
+    <script src="~/js/utils.js"></script>
+    <script src="~/js/analyser.js"></script>
+    <!-- nice scrollbar -->
+    <script src="~/js/perfect-scrollbar.min.js"></script>
+    <script>
+        var ps = new PerfectScrollbar('#sidebar');
+    </script>
+    <!-- custom js -->
+    <script src="~/js/custom.js"></script>
+    <script src="~/js/chart_custom_style1.js"></script>
+</body>
+</html>

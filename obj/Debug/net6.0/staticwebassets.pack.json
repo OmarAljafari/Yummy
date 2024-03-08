@@ -1,0 +1,2277 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\1070e120-2334-436c-96c5-69ef6a355c71.png",
+      "PackagePath": "staticwebassets\\AboutUsImg\\1070e120-2334-436c-96c5-69ef6a355c71.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\107abbba-98fb-4b14-940c-b59927e0898d.jpeg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\107abbba-98fb-4b14-940c-b59927e0898d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\24f34571-535e-4d33-8f92-6375fcead886.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\24f34571-535e-4d33-8f92-6375fcead886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\363808e4-2482-415c-9d46-7704fffc3e0a.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\363808e4-2482-415c-9d46-7704fffc3e0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\3baacbed-7bce-49d8-bb27-60b0b81b61a8.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\3baacbed-7bce-49d8-bb27-60b0b81b61a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\3f5d6ddd-31bf-4e96-9b5f-377701879d1b.jpeg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\3f5d6ddd-31bf-4e96-9b5f-377701879d1b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\3f947352-1f23-403d-bed6-c72fe90f5a37.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\3f947352-1f23-403d-bed6-c72fe90f5a37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\43be12fe-ea4a-4d3b-a3d1-4ae3f843290b.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\43be12fe-ea4a-4d3b-a3d1-4ae3f843290b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\5171631a-bd1b-4ed4-a1ad-799ab4f2e3a9.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\5171631a-bd1b-4ed4-a1ad-799ab4f2e3a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\5c42973d-2b40-4fdc-89a5-59033294eb4c.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\5c42973d-2b40-4fdc-89a5-59033294eb4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\6eb60013-53f8-4c9a-9a45-fefa30d8b004.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\6eb60013-53f8-4c9a-9a45-fefa30d8b004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\861a49fd-00e6-4cb0-a367-455db2ce5d45.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\861a49fd-00e6-4cb0-a367-455db2ce5d45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\93fbcaf8-a2e5-4544-a2e2-05ba0a80789c.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\93fbcaf8-a2e5-4544-a2e2-05ba0a80789c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\9c52cc2a-8b60-4e9d-a7e5-6a3492774abc.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\9c52cc2a-8b60-4e9d-a7e5-6a3492774abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\b89461bb-e66c-4b3f-9137-b91610bdc7ba.png",
+      "PackagePath": "staticwebassets\\AboutUsImg\\b89461bb-e66c-4b3f-9137-b91610bdc7ba.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\b9905813-8d97-4378-ab8c-6276b98979ab.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\b9905813-8d97-4378-ab8c-6276b98979ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\dac9ae55-4c14-44f6-bf6f-65818f09b3fb.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\dac9ae55-4c14-44f6-bf6f-65818f09b3fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\dfa77266-b138-4beb-9e9e-5deeafa4d4af.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\dfa77266-b138-4beb-9e9e-5deeafa4d4af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\e479321c-7904-45c6-bb06-6e131b43e8ae.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\e479321c-7904-45c6-bb06-6e131b43e8ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\efc9fc2f-8f2e-4b2c-bb1b-05b71592acbf.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\efc9fc2f-8f2e-4b2c-bb1b-05b71592acbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\AboutUsImg\\f0219f7a-b7e7-4deb-97d3-327e13434e5d.jpg",
+      "PackagePath": "staticwebassets\\AboutUsImg\\f0219f7a-b7e7-4deb-97d3-327e13434e5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\0ee46cf3-a3c6-4653-8f07-3ec3cf8680a4.jpg",
+      "PackagePath": "staticwebassets\\ChefImg\\0ee46cf3-a3c6-4653-8f07-3ec3cf8680a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\26df7fb8-4c87-419e-8c61-d30fcc7b3509.jpg",
+      "PackagePath": "staticwebassets\\ChefImg\\26df7fb8-4c87-419e-8c61-d30fcc7b3509.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\58728ccf-6bdc-4dc6-80c6-7daf0030f054.jpeg",
+      "PackagePath": "staticwebassets\\ChefImg\\58728ccf-6bdc-4dc6-80c6-7daf0030f054.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\689001f7-fa88-40e0-8b75-d48fe5402347.png",
+      "PackagePath": "staticwebassets\\ChefImg\\689001f7-fa88-40e0-8b75-d48fe5402347.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\88253d88-5eb5-453f-8b8a-0d52a9de6d6c.jpg",
+      "PackagePath": "staticwebassets\\ChefImg\\88253d88-5eb5-453f-8b8a-0d52a9de6d6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ChefImg\\b7c90b57-6d46-4f69-bb6b-5fbd3cc8c906.jpg",
+      "PackagePath": "staticwebassets\\ChefImg\\b7c90b57-6d46-4f69-bb6b-5fbd3cc8c906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\0be49584-c9ae-4d04-9152-584d15778deb.jpg",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\0be49584-c9ae-4d04-9152-584d15778deb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\3519ed2d-13b7-4e31-a1fd-e7b31d94c83f.jpeg",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\3519ed2d-13b7-4e31-a1fd-e7b31d94c83f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\37277482-6ffa-4dfb-afa8-fd9aad275e25.png",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\37277482-6ffa-4dfb-afa8-fd9aad275e25.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\39a83b94-de58-47c7-abe7-f6f5ef863d8b.jpg",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\39a83b94-de58-47c7-abe7-f6f5ef863d8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\43c9a8c8-e45c-4fbe-9f91-54cba7edd4e5.jpg",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\43c9a8c8-e45c-4fbe-9f91-54cba7edd4e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\a16d92f4-d167-427a-8422-7a5eae62a53c.png",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\a16d92f4-d167-427a-8422-7a5eae62a53c.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\e1cfbbb9-a505-4cef-8bbb-4cec79d36f78.png",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\e1cfbbb9-a505-4cef-8bbb-4cec79d36f78.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\FrontOfPageImg\\ed79c276-fd52-4193-a4c4-b4c4a65c852c.png",
+      "PackagePath": "staticwebassets\\FrontOfPageImg\\ed79c276-fd52-4193-a4c4-b4c4a65c852c.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\0e691b1d-9ef9-4545-99b9-6282cd47a2e8.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\0e691b1d-9ef9-4545-99b9-6282cd47a2e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\13ffe04a-181a-47e1-835c-2cb15a62bf23.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\13ffe04a-181a-47e1-835c-2cb15a62bf23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\4570c008-785a-4441-b448-0f2c82c2c129.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\4570c008-785a-4441-b448-0f2c82c2c129.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\70270bff-8336-40da-913c-c4427d6ce893.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\70270bff-8336-40da-913c-c4427d6ce893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\79c98a70-495f-4660-b1de-da575cd4c321.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\79c98a70-495f-4660-b1de-da575cd4c321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\916e85dd-e4e6-4047-9e1c-207a13f55464.jpeg",
+      "PackagePath": "staticwebassets\\GalleryImg\\916e85dd-e4e6-4047-9e1c-207a13f55464.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\9344f2f3-d10e-4993-bb52-6a307a2324e9.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\9344f2f3-d10e-4993-bb52-6a307a2324e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\93abda54-2042-494d-a275-c7430876167a.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\93abda54-2042-494d-a275-c7430876167a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\9789c754-095a-42e8-921c-56b007315989.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\9789c754-095a-42e8-921c-56b007315989.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\9924b30a-16e7-47e1-825c-8386c69273d1.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\9924b30a-16e7-47e1-825c-8386c69273d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\c39ac32b-c6d2-445a-ac06-d5e25e9fd683.jpg",
+      "PackagePath": "staticwebassets\\GalleryImg\\c39ac32b-c6d2-445a-ac06-d5e25e9fd683.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\GalleryImg\\d3f5ef68-0dbe-474b-8c65-ff592669da19.jpeg",
+      "PackagePath": "staticwebassets\\GalleryImg\\d3f5ef68-0dbe-474b-8c65-ff592669da19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\198e7274-f123-4454-be79-170a281b2f34.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\198e7274-f123-4454-be79-170a281b2f34.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\1cdb140b-53d1-4a74-8bc2-19998d9e4d52.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\1cdb140b-53d1-4a74-8bc2-19998d9e4d52.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\23a8be28-d2ea-4234-a7e1-386dee88b4a8.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\23a8be28-d2ea-4234-a7e1-386dee88b4a8.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\24e226d9-3d9b-45ce-80c3-26c013213c98.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\24e226d9-3d9b-45ce-80c3-26c013213c98.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\27a4b977-40c3-408a-8344-56e29e7fbf21.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\27a4b977-40c3-408a-8344-56e29e7fbf21.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\36df32b7-f459-4ae9-bad6-597aa102d712.jpg",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\36df32b7-f459-4ae9-bad6-597aa102d712.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\4264ab8d-a81a-41c6-b07e-8d947af8f18b.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\4264ab8d-a81a-41c6-b07e-8d947af8f18b.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\536b25f8-ffa3-4081-ba2e-96360e411963.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\536b25f8-ffa3-4081-ba2e-96360e411963.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\5898b6bb-c0ef-463d-9922-d0c8e68e8d55.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\5898b6bb-c0ef-463d-9922-d0c8e68e8d55.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\5e3c5613-a902-4546-bf34-bce261a8625d.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\5e3c5613-a902-4546-bf34-bce261a8625d.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\828acc12-b37e-4973-a533-696074b085e9.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\828acc12-b37e-4973-a533-696074b085e9.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\85b04709-3d35-43be-a7df-2f3904b5e14a.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\85b04709-3d35-43be-a7df-2f3904b5e14a.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\863594f6-7a53-42df-bfbc-0030a040354f.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\863594f6-7a53-42df-bfbc-0030a040354f.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\894c98bb-c487-4088-84fe-c6672b7a5c08.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\894c98bb-c487-4088-84fe-c6672b7a5c08.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\9a93bead-81b9-40b1-9648-03ba95909df4.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\9a93bead-81b9-40b1-9648-03ba95909df4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\a1405af8-4c4e-447b-a8c4-80255b9112d2.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\a1405af8-4c4e-447b-a8c4-80255b9112d2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\bde12201-a674-4bfd-875a-41e0dc2331a6.jpeg",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\bde12201-a674-4bfd-875a-41e0dc2331a6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\c10a9e44-593a-4298-bcbf-8121f9a123d7.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\c10a9e44-593a-4298-bcbf-8121f9a123d7.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\d3e94590-a2df-4319-934c-3e6bff51cf47.jpeg",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\d3e94590-a2df-4319-934c-3e6bff51cf47.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\d872d1ec-748b-44ea-9dd6-dcaf80535599.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\d872d1ec-748b-44ea-9dd6-dcaf80535599.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\dc305ebe-baa1-4649-a4e9-738d042f432c.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\dc305ebe-baa1-4649-a4e9-738d042f432c.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\dce9c8dc-457a-4bf7-bf79-aad854da5977.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\dce9c8dc-457a-4bf7-bf79-aad854da5977.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\e64cda31-1672-4a37-b01a-1ec02be058c4.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\e64cda31-1672-4a37-b01a-1ec02be058c4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\ItemMenuImg\\faa57a36-8748-4a42-ae00-101a7b8ecc37.png",
+      "PackagePath": "staticwebassets\\ItemMenuImg\\faa57a36-8748-4a42-ae00-101a7b8ecc37.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\438261bb-6f6d-4b0c-9a1d-01c89a86ef5c.jpg",
+      "PackagePath": "staticwebassets\\MomentImg\\438261bb-6f6d-4b0c-9a1d-01c89a86ef5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\47aa24d1-80cd-4b8e-a506-3760a5a16b68.jpg",
+      "PackagePath": "staticwebassets\\MomentImg\\47aa24d1-80cd-4b8e-a506-3760a5a16b68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\52696bce-836a-47e8-8205-6eb947836434.png",
+      "PackagePath": "staticwebassets\\MomentImg\\52696bce-836a-47e8-8205-6eb947836434.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\aae80960-ce5a-4b55-b9b5-83bb0fb185e6.jpeg",
+      "PackagePath": "staticwebassets\\MomentImg\\aae80960-ce5a-4b55-b9b5-83bb0fb185e6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\c65116ea-4cee-4e1c-8ec0-bc18d75e2bf8.png",
+      "PackagePath": "staticwebassets\\MomentImg\\c65116ea-4cee-4e1c-8ec0-bc18d75e2bf8.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\MomentImg\\ea648b00-bde0-4ec6-b02a-8e94205ec04d.jpg",
+      "PackagePath": "staticwebassets\\MomentImg\\ea648b00-bde0-4ec6-b02a-8e94205ec04d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\0477843d-4ca2-4f5d-92fd-39c948fb4162.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\0477843d-4ca2-4f5d-92fd-39c948fb4162.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\1a6e8fb5-3e62-49ec-b9f9-a58aa0962430.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\1a6e8fb5-3e62-49ec-b9f9-a58aa0962430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\33ae0c2d-099e-42b3-8f85-c8c8b1efc4d2.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\33ae0c2d-099e-42b3-8f85-c8c8b1efc4d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\43991fd2-e5aa-4e29-889c-d383a6db2572.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\43991fd2-e5aa-4e29-889c-d383a6db2572.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\686dbd5c-68bc-4ea0-b304-27b26cde7461.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\686dbd5c-68bc-4ea0-b304-27b26cde7461.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\7239c3aa-a2b0-4f51-bf89-18cc8ef8e191.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\7239c3aa-a2b0-4f51-bf89-18cc8ef8e191.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\SystemSettingImg\\81e6f2ac-55d1-48f9-ba81-a79754f38104.jpg",
+      "PackagePath": "staticwebassets\\SystemSettingImg\\81e6f2ac-55d1-48f9-ba81-a79754f38104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\78e26824-2540-4b59-a986-c17c34e7976f.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\78e26824-2540-4b59-a986-c17c34e7976f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\9c5cf33a-574f-4fb0-8595-0f945ba58455.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\9c5cf33a-574f-4fb0-8595-0f945ba58455.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\c0479ea9-95ad-4ee3-9856-8dd962715d82.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\c0479ea9-95ad-4ee3-9856-8dd962715d82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\c1351a1d-1a35-444d-932b-c2f0f91048bd.jpeg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\c1351a1d-1a35-444d-932b-c2f0f91048bd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\c4396a7e-dad7-4e1b-9e1b-e1373b05f26e.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\c4396a7e-dad7-4e1b-9e1b-e1373b05f26e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\d237682a-59db-428b-bb28-e770745bb2a8.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\d237682a-59db-428b-bb28-e770745bb2a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\WhatPeopleSayImg\\f1d23e05-48f6-42a0-81f9-7e162349224f.jpg",
+      "PackagePath": "staticwebassets\\WhatPeopleSayImg\\f1d23e05-48f6-42a0-81f9-7e162349224f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\events-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\events-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\events-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-5.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\menu\\menu-item-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-6.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\reservation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\stats-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\css\\calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\calendar.min.css",
+      "PackagePath": "staticwebassets\\css\\calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\color_2.css",
+      "PackagePath": "staticwebassets\\css\\color_2.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "PackagePath": "staticwebassets\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\layout_img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\WhatsApp Image 2023-12-17 at 10.04.53 PM.jpeg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\WhatsApp Image 2023-12-17 at 10.04.53 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\american-express.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\bg1.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\error.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g10.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g11.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g12.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g13.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g14.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g15.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g16.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g7.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g8.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\g9.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\login_image.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\login_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\map_icon.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\map_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\msg1.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\msg1.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\msg2.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\msg2.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\msg3.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\msg3.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\msg4.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\msg4.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\msg5.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\msg5.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\pattern_h.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\user_img.jpg",
+      "PackagePath": "staticwebassets\\images\\layout_img\\user_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\layout_img\\visa.png",
+      "PackagePath": "staticwebassets\\images\\layout_img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\images\\logo\\logo_icon.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\analyser.js",
+      "PackagePath": "staticwebassets\\js\\analyser.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\animate.js",
+      "PackagePath": "staticwebassets\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\calendar.min.js",
+      "PackagePath": "staticwebassets\\js\\calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\chart_custom_style1.js",
+      "PackagePath": "staticwebassets\\js\\chart_custom_style1.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\chart_custom_style2.js",
+      "PackagePath": "staticwebassets\\js\\chart_custom_style2.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\custom_chart.js",
+      "PackagePath": "staticwebassets\\js\\custom_chart.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\semantic.min.js",
+      "PackagePath": "staticwebassets\\js\\semantic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\settings.html",
+      "PackagePath": "staticwebassets\\js\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\js\\utils.js",
+      "PackagePath": "staticwebassets\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\.DS_Store",
+      "PackagePath": "staticwebassets\\modules\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-animation.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-animation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-api-annotations.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-api-annotations.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-api-rules.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-api-rules.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-api.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-api.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-area.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-area.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-area3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-area3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-boxplot.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-boxplot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-bubble.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-bubble.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-bubblepie.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-bubblepie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-calendar.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-chord.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-chord.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-core.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-csv.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-csv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-debug.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-debug.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-dragging.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-dragging.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-errorbars.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-errorbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-export.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-gauge.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-grid.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-grid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-guide.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-guide.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hbar.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hbar3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hbar3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hbubble.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hbubble.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hbullet.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hbullet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hfunnel.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hfunnel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-history.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-history.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-hscatter.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-hscatter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-legend.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-legend.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-line.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-line.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-line3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-line3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-afg.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-afg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ago.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ago.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-alb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-alb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-and.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-and.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-are.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-are.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-arg.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-arg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-arm.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-arm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-aus.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-aus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-aut.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-aut.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-aze.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-aze.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bdi.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bdi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bel.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ben.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ben.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bfa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bfa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bgr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bgr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bih.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bih.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-blr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-blr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bol.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bol.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bra.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bra.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-brn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-brn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-btn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-btn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-bwa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-bwa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-caf.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-caf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-can.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-can.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-che.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-che.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-chl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-chl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-chn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-chn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-civ.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-civ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cmr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cmr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cod.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cod.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cog.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cog.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-col.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-col.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cri.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cri.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cub.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cub.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cyp.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cyp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-cze.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-cze.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-deu.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-deu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-dnk.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-dnk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ecu.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ecu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-egy.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-egy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-esp.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-esp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-espL2.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-espL2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-est.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-est.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-eth.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-eth.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-fin.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-fin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-fra.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-fra.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-fraL2.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-fraL2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gab.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gbr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gbr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gbrL2.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gbrL2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-geojson.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-geojson.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gha.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gha.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gmb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gmb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gnb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gnb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-grc.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-grc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-gtm.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-gtm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-guf.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-guf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-guy.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-guy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-hrv.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-hrv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-hun.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-hun.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ind.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ind.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-irl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-irl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-irn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-irn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-isl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-isl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-isr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-isr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ita.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ita.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-jpn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-jpn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-kaz.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-kaz.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ken.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ken.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-kor.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-kor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-kwt.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-kwt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-lao.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-lao.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-lbr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-lbr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-lie.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-lie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ltu.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ltu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-lux.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-lux.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-lva.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-lva.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-mda.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-mda.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-mex.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-mex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-mkd.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-mkd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-mne.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-mne.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-moz.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-moz.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-nam.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-nam.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ncl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ncl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-nga.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-nga.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-nld.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-nld.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-nor.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-nor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-nzl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-nzl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-omn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-omn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-pak.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-pak.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-pan.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-pan.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-per.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-per.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-phl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-phl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-png.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-png.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-pol.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-pol.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-prt.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-prt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-qat.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-qat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-rou.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-rou.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-rus.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-rus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-rwa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-rwa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-sen.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-sen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-slv.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-slv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-srb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-srb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-sur.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-sur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-svk.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-svk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-svn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-svn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-swe.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-swe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-tha.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-tha.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-tjk.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-tjk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-topojson.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-topojson.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-tun.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-tun.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-tur.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-tur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-twn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-twn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-uga.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-uga.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ukr.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ukr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ury.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ury.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ak.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ak.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_al.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_al.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ar.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_az.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ca.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_co.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_co.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ct.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ct.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_dc.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_dc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_de.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_fl.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_fl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ga.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ga.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_hi.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ia.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ia.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_id.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_il.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_il.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_in.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_in.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ks.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ks.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ky.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_la.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_la.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ma.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_md.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_md.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_me.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_me.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_mi.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_mi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_mn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_mn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_mo.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_mo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ms.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_mt.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_mt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nc.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nd.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ne.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ne.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nh.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nj.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nm.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_nv.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_nv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ny.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ny.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_oh.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_oh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ok.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ok.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_or.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_or.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_pa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_pa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ri.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ri.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_sc.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_sc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_sd.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_sd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_tn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_tn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_tx.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_tx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_ut.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_ut.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_va.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_va.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_vt.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_vt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_wa.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_wa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_wi.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_wi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_wv.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_wv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-usa_wy.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-usa_wy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-uzb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-uzb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-ven.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-ven.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-vnm.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-vnm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-world-continents.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-world-continents.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-world-countries.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-world-countries.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-yem.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-yem.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-zaf.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-zaf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-zmb.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-zmb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps-zwe.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps-zwe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-maps.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-maps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-navpie.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-navpie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-nestedpie.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-nestedpie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-objects.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-objects.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-pareto.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-pareto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-patterns.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-patterns.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-piano.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-piano.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-pie.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-pie3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-pie3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-populationpyramid.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-populationpyramid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-preview.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-preview.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-r.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-r.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-radar.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-radar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-range.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-range.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-rankflow.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-rankflow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-refresh.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-refresh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-scalemarkers.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-scalemarkers.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-scatter.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-scatter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-scroll.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-selection-tool.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-selection-tool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-selection.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-selection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-stock.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-stock.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-stream.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-stream.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-svg-simple-selection.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-svg-simple-selection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-toolbar3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-toolbar3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-tooltip.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-treemap.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-treemap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-varea.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-varea.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-vbar.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-vbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-vbar3d.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-vbar3d.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-vbullet.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-vbullet.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-venn.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-venn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-vfunnel.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-vfunnel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-vline.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-vline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-waterfall.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-waterfall.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-wordcloud.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-wordcloud.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-xy.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-xy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-yx.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-yx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\modules\\zingchart-zoom.min.js",
+      "PackagePath": "staticwebassets\\modules\\zingchart-zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\ASP.net\\My Projects\\Yummy\\Yummy\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Yummy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Yummy.props",
+      "PackagePath": "build\\Yummy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Yummy.props",
+      "PackagePath": "buildMultiTargeting\\Yummy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Yummy.props",
+      "PackagePath": "buildTransitive\\Yummy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

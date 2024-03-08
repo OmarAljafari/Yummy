@@ -1,0 +1,51 @@
+﻿@model Yummy.Areas.Admin.ViewModels.Register
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+<div class="logo_login">
+    <div class="center">
+        <img width="210" src="~/images/logo/logo.png" alt="#" />
+    </div>
+</div>
+
+<div class="login_form">
+
+    <form asp-action="Edit" enctype="multipart/form-data" class="row g-3">
+        <fieldset>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="field">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            
+           
+            <div class="field text-center">
+                    <button class="main_bt">Edit</button>
+            </div>
+          </fieldset>
+        </form>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

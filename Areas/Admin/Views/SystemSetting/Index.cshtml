@@ -1,0 +1,168 @@
+﻿@model IEnumerable<Yummy.Models.SystemSetting>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="full_container">
+    <div class="container">
+        <div class="full_height">
+            <div class="col-md-12 mb-3">
+                <div class="white_shd full margin_bottom_30">
+                    <div class="full graph_head">
+                        <div class="heading1 margin_0">
+                            <h2>
+
+                                <a asp-action="Create">Create New</a>
+
+                            </h2>
+                        </div>
+                    </div>
+                    <div class="table_section padding_infor_info">
+                        <div class="table-responsive-sm">
+                            <table class="table table-dark table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingCopyRight)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingImageBook)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingImageStatistics)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingLogo)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingMap)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingTitleBook)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SystemSettingTitleMap)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.MomentTitle)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.CategoryMenuTitle)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.ChefTitle)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.GalleryTitle)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.WhatPeopleSayTitle)
+                                        </th>
+
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SystemSettingCopyRight)
+                                            </td>
+                                            <td>
+                                                <img src="~/SystemSettingImg/@item.SystemSettingImageStatistics" style="width:90px;height:90px" />
+                                            </td>
+                                            <td>
+                                                <img src="~/SystemSettingImg/@item.SystemSettingImageBook" style="width:90px;height:90px" />
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SystemSettingLogo)
+                                            </td>
+                                            
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SystemSettingMap)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SystemSettingTitleBook)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SystemSettingTitleMap)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.MomentTitle)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.CategoryMenuTitle)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.ChefTitle)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.GalleryTitle)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.WhatPeopleSayTitle)
+                                            </td>
+
+
+                                            <td>
+                                                <a asp-action="Edit" asp-route-id=@item.SystemSettingId><i class="fa fa-edit"> </i></a> |
+                                                <a href="" class="linkDele" data-toggle="modal" data-target="#myModal" data-path=@Url.ActionLink("Delete","SystemSetting",new{idDelete = item.SystemSettingId})><i class="fa fa-close"></i></a>      |
+                                                @if (item.IsActive)
+                                                {
+                                                    <a asp-action="Active" asp-route-idActive=@item.SystemSettingId><i class="fa fa-eye"></i></a>
+                                                }
+                                                else
+                                                {
+                                                    <a asp-action="Active" asp-route-idActive=@item.SystemSettingId><i class="fa fa-eye-slash"></i></a>
+
+                                                }
+
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <!-- Modal body -->
+            <div class="modal-body">
+                Are you sure?
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button id="DeleBtn" type="button" class="btn btn-danger" data-dismiss="modal">Delete</button>
+                <button id="BtnCan" type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/jquery/jquery.js"></script>
+
+<script>
+    var data = "";
+    $(".linkDele").click(function () {
+        data = $(this).data("path")
+    })
+
+    $("#DeleBtn").click(function () {
+        window.location = data;
+        data = ""
+    })
+
+    $("#BtnCan").click(function () {
+        data = ""
+    })
+</script>

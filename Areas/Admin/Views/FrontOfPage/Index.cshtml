@@ -1,0 +1,124 @@
+﻿@model IEnumerable<Yummy.Models.FrontOfPage>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="full_height">
+          <div class="col-md-12 mb-3">
+            <div class="white_shd full margin_bottom_30">
+        <div class="full graph_head">
+            <div class="heading1 margin_0">
+        <h2>
+            
+                <a asp-action="Create">Create New</a>
+            
+        </h2>
+            </div>
+        </div>
+ <div class="table_section padding_infor_info">
+     <div class="table-responsive-sm">
+       <table class="table table-dark table-striped">    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FrontOfPageTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FrontOfPageDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FrontOfPageLink1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FrontOfPageLink2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FrontOfPageImage)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FrontOfPageTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FrontOfPageDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FrontOfPageLink1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FrontOfPageLink2)
+            </td>
+            <td>
+                <img src="~/FrontOfPageImg/@item.FrontOfPageImage" style="width:90px;height:90px"/>
+            </td>
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FrontOfPageId"><i class="fa fa-edit"> </i></a> |
+                <a href="" class="butDelehhh" data-toggle="modal" data-target="#myModal" data-bfc=@Url.ActionLink("Delete","FrontOfPage",new{idDelete = item.FrontOfPageId})><i class="fa fa-close"></i></a> |
+                    @if (item.IsActive)
+                    {
+                        <a asp-action="Active" asp-route-idActive="@item.FrontOfPageId"><i class="fa fa-eye"></i></a>
+                    }
+                    else{
+                        <a asp-action="Active" asp-route-idActive="@item.FrontOfPageId"><i class="fa fa-eye-slash"></i></a>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <!-- Modal body -->
+            <div class="modal-body">
+                Are you sure?
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button id="confirmDelt" type="button" class="btn btn-danger" data-dismiss="modal">Delete</button>
+                <button id="cancelDelt" type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/jquery/jquery.js"></script>
+
+
+
+<script>
+    var dataDeleteInfo = "";
+    $(".butDelehhh").click(function () {
+        dataDeleteInfo = $(this).data("bfc")
+    })
+
+    $("#confirmDelt").click(function () {
+        window.location = dataDeleteInfo;
+        dataDeleteInfo = ""
+    })
+
+    $("#cancelDelt").click(function () {
+        dataDeleteInfo = ""
+    })
+
+</script>

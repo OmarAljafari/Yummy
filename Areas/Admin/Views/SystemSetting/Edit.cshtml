@@ -1,0 +1,100 @@
+﻿@model Yummy.Areas.Admin.ViewModels.SystemSettingViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="full_container" style="margin-top:130px;margin-bottom:130px">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+                @* <div class="logo_login">
+                    <div class="center">
+                        <img width="210" src="~/images/logo/logo.png" alt="#" />
+                    </div>
+                </div>
+ *@
+                <div class="login_form">
+
+                    <form asp-action="Edit" enctype="multipart/form-data" class="row g-3">
+                        <fieldset>
+
+                            <div class="field">
+                                <label asp-for="SystemSettingTitleMap" class="control-label"></label>
+                                <input asp-for="SystemSettingTitleMap" class="form-control" />
+                                <span asp-validation-for="SystemSettingTitleMap" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="SystemSettingMap" class="control-label"></label>
+                                <input asp-for="SystemSettingMap" class="form-control" />
+                                <span asp-validation-for="SystemSettingMap" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="SystemSettingCopyRight" class="control-label"></label>
+                                <input asp-for="SystemSettingCopyRight" class="form-control" />
+                                <span asp-validation-for="SystemSettingCopyRight" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="SystemSettingLogo" class="control-label"></label>
+                                <input asp-for="SystemSettingLogo" class="form-control" />
+                                <span asp-validation-for="SystemSettingLogo" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="MomentTitle" class="control-label"></label>
+                                <input asp-for="MomentTitle" class="form-control" />
+                                <span asp-validation-for="MomentTitle" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="CategoryMenuTitle" class="control-label"></label>
+                                <input asp-for="CategoryMenuTitle" class="form-control" />
+                                <span asp-validation-for="CategoryMenuTitle" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="ChefTitle" class="control-label"></label>
+                                <input asp-for="ChefTitle" class="form-control" />
+                                <span asp-validation-for="ChefTitle" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="GalleryTitle" class="control-label"></label>
+                                <input asp-for="GalleryTitle" class="form-control" />
+                                <span asp-validation-for="GalleryTitle" class="text-danger"></span>
+                            </div>
+                            <div class="field">
+                                <label asp-for="FileStat" class="control-label"></label>
+                                <input asp-for="FileStat" class="form-control" />
+                                <span asp-validation-for="FileStat" class="text-danger"></span>
+                            </div>
+
+                            <div class="field">
+                                <label asp-for="FileBook" class="control-label"></label>
+                                <input asp-for="FileBook" class="form-control" />
+                                <span asp-validation-for="FileBook" class="text-danger"></span>
+                            </div>
+
+                            <div class="field">
+                                <label asp-for="SystemSettingTitleBook" class="control-label"></label>
+                                <input asp-for="SystemSettingTitleBook" class="form-control" />
+                                <span asp-validation-for="SystemSettingTitleBook" class="text-danger"></span>
+                            </div>
+
+                            <div class="field">
+                                <label asp-for="WhatPeopleSayTitle" class="control-label"></label>
+                                <input asp-for="WhatPeopleSayTitle" class="form-control" />
+                                <span asp-validation-for="WhatPeopleSayTitle" class="text-danger"></span>
+                            </div>
+
+                            <div class="text-center mb-2 ">
+                                <input type="submit" value="Edit" class="btn btn-primary" />
+                            </div>
+                            <div class="text-center">
+                                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

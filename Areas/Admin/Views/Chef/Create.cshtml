@@ -1,0 +1,59 @@
+﻿@model Yummy.Areas.Admin.ViewModels.ChefViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="full_container">
+    <div class="container">
+        <div class="center verticle_center full_height">
+            <div class="login_section">
+
+<div class="logo_login">
+    <div class="center">
+        <img width="210" src="~/images/logo/logo.png" alt="#" />
+    </div>
+</div>
+
+<div class="login_form">
+
+    <form asp-action="Create" enctype="multipart/form-data" class="row g-3">
+        <fieldset>
+            <div class="field">
+                <label asp-for="ChefName" class="control-label"></label>
+                <input asp-for="ChefName" class="form-control" />
+                <span asp-validation-for="ChefName" class="text-danger"></span>
+            </div>
+            <div class="field">
+                <label asp-for="ChefDescription" class="control-label"></label>
+                <input asp-for="ChefDescription" class="form-control" />
+                <span asp-validation-for="ChefDescription" class="text-danger"></span>
+            </div>
+            
+            <div class="field">
+                <label asp-for="File" class="control-label"></label>
+                <input asp-for="File" class="form-control" />
+                <span asp-validation-for="File" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger mt-2"></div>
+           
+          <div class="field">
+                <label asp-for="ChefJob" class="control-label"></label>
+                <input asp-for="ChefJob" class="form-control" />
+                <span asp-validation-for="ChefJob" class="text-danger"></span>
+            </div>
+            <div class="text-center mb-2 ">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+            <div class="text-center">
+                <a asp-action="Index" class="btn btn-success">Back to Table</a>
+            </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
